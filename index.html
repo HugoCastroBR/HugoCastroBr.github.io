@@ -32,12 +32,14 @@
     <main class="home_main">
 
         <div class="home_main__menu_container">
-            <div class="home_main__menu_options__container">
+            <div class="home_main__menu_options__container transparent">
+                <div class="home_main__menu_options__items noDisplay">
 
+                </div>
             </div>
-            <div class="home_main__menu_button__container">
-                <button class="home_main__menu_btn">
-                    Menu
+            <div class="home_main__menu_button__container transparent">
+                <button class="home_main__menu_btn" onclick="ToggleMenu()">
+                    <img src="./static/img/MenuLogo.svg" alt="">
                 </button>
             </div>
         </div>
@@ -125,5 +127,7 @@
     <footer class="home_footer">
 
     </footer>
+
+    <script src="./static/js/home/index.js"></script>
 </body>
 </html>
