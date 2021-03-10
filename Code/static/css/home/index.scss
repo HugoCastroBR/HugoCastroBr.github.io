@@ -1,0 +1,110 @@
+$background_color: #1C1D1E;
+$text_highlight: white;
+
+
+@font-face{
+    font-family: 'Segoe UI';
+    src: url("../../fonts/SegoeUI/SegoeUI.ttf");
+}
+
+
+h1,h2,h3,h4,h5,h6,span,a,button,p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.home_body{
+    min-width: 100vw;
+    max-width: 100vw;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+.home_head{
+    display: flex;
+    flex-direction: row;
+    width: 100px;
+    height: 80px;
+    justify-content: center;
+    align-items: center;
+}
+
+.home_head__container{
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    height: 80px;
+    background-color: $background_color;
+    justify-content: center;
+    align-items: center;
+}
+
+.home_head__links{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: calc(100vw - 200px);
+    height: 80px;
+}
+
+.head__link_a{
+    text-decoration: none;
+    color: $text_highlight;
+    font-size: 20px;
+}
+
+.home_head__main_links{
+    display: flex;
+    width: 240px;
+    justify-content: space-between;
+}
+
+.Default__rounded_button{
+    border-radius: 50px;
+    border: 2px solid $text_highlight;
+}
+
+.home_head__link_blog{
+    text-align: center;
+    display: block;
+    width: 100px;
+    height: 25px;
+    padding-top: 2.5px;
+    padding-bottom: 2.5px;
+}
+
+.home_main{
+    width: calc(100vw - 200px);
+    padding-left: 100px;
+    padding-right: 100px;
+    height: auto;
+    min-height: 100vh;
+    background-color: $background_color;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.home_main__intro{
+    display: flex;
+    flex-direction: row;
+    width: calc(100vw - 200px);
+}
+.intro__main_content__container{
+    width: 48%;
+    height: calc(100vh - 160px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.intro__main_separator{
+    width: 4%;
+    border: 1px solid white;
+}
+
+.intro__extra_content__container{
+    width: 48%;
+}
