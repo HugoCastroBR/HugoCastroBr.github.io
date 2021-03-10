@@ -159,7 +159,7 @@ h1, h2, h3, h4, h5, h6, span, a, button, p {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  margin-top: -40px;
+  margin-top: -30px;
 }
 
 .intro__main_separator {
@@ -392,7 +392,19 @@ h1, h2, h3, h4, h5, h6, span, a, button, p {
   background-color: transparent;
 }
 
+.noDisplay {
+  display: none;
+}
+
 .home_main__menu_btn {
   height: 50px;
+  border: none;
+  background-color: transparent;
+}
+
+.home_main__menu_btn img {
+  height: 20px;
+  -webkit-filter: invert(100);
+          filter: invert(100);
 }
 /*# sourceMappingURL=index.css.map */
