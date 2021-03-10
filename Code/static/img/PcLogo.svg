@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 503.53 417.79">
+  <defs>
+    <linearGradient id="b568ed24-b34f-49a7-bcb3-f26d6bcb7f94" x1="260.5" y1="233.5" x2="260.5" y2="417.79" gradientUnits="userSpaceOnUse">
+      <stop offset="0.29"/>
+      <stop offset="0.33" stop-color="#0a0a0a"/>
+      <stop offset="0.42" stop-color="#1c1c1c"/>
+      <stop offset="0.54" stop-color="#292929"/>
+      <stop offset="0.69" stop-color="#313131"/>
+      <stop offset="1" stop-color="#333"/>
+    </linearGradient>
+    <linearGradient id="a8153037-460e-419c-ac89-016ccd0da895" x1="261.39" y1="231.7" x2="261.39" y2="126.44" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6873e2"/>
+      <stop offset="0.27" stop-color="#8b93e3"/>
+      <stop offset="1" stop-color="#e6e6e6"/>
+    </linearGradient>
+  </defs>
+  <g id="ad8a17ad-a1fb-43bd-9ce6-f6f2ac144c19" data-name="Layer 2">
+    <g id="bccaa7ab-a58a-43e6-959e-a8070c84916a" data-name="Layer 1">
+      <g>
+        <path d="M129,417.79H392V405.72c-49-15.08-81.65-42.13-81.65-73V233.5H212.07v99.21c0,31.17-33.3,58.45-83.07,73.44Z" style="fill: url(#b568ed24-b34f-49a7-bcb3-f26d6bcb7f94)"/>
+        <rect x="60" y="255.5" width="400" height="50" rx="25" style="fill: #333"/>
+        <rect x="60" y="58.5" width="400" height="225" rx="3.96" style="fill: #0a0313"/>
+        <rect x="71" y="69.23" width="380" height="213.75" rx="3.7" style="fill: #555860"/>
+        <text transform="translate(242.18 295.58)" style="font-size: 12px;font-family: MyriadPro-Regular, Myriad Pro"><tspan style="letter-spacing: 0.0029703776041666665em">Q</tspan><tspan x="8.3" y="0" style="letter-spacing: 0.000040690104166666664em">uali</tspan><tspan x="26.34" y="0" style="letter-spacing: 0.008992513020833334em">t</tspan><tspan x="30.42" y="0">y</tspan></text>
+      </g>
+      <path d="M343.66,185.17a32.13,32.13,0,0,0,.28-4.18c0-18.18-15-32.92-33.54-32.92a33.8,33.8,0,0,0-17.92,5.1c-7.32-21.36-27.1-36.67-50.36-36.67-29.26,0-53,24.22-53.4,54.24-15.51,4.11-26.79,16.5-26.79,31.16,0,18,17,32.6,38,32.6H328.24l.35,0,.83,0c17.36,0,31.42-11.68,31.42-26.08C360.84,198.27,353.86,189.48,343.66,185.17Z" style="fill: url(#a8153037-460e-419c-ac89-016ccd0da895)"/>
+      <g>
+        <circle cx="4" cy="120.5" r="4" style="fill: #655dd2"/>
+        <circle cx="22" cy="143.5" r="4" style="fill: #655dd2"/>
+        <circle cx="19" cy="110.5" r="4" style="fill: #655dd2"/>
+        <rect x="0.8" y="116.23" width="17.87" height="0.99" transform="translate(-57.06 20.51) rotate(-30)" style="fill: #655dd2"/>
+        <rect x="-1.29" y="131.38" width="28.31" height="1.03" transform="translate(110.27 42.03) rotate(52.87)" style="fill: #655dd2"/>
+        <circle cx="200.17" cy="14" r="4" style="fill: #655dd2"/>
+        <circle cx="215.17" cy="4" r="4" style="fill: #655dd2"/>
+        <rect x="196.96" y="9.73" width="17.87" height="0.99" transform="translate(22.47 104.32) rotate(-30)" style="fill: #655dd2"/>
+        <circle cx="496.26" cy="248.48" r="4" style="fill: #655dd2"/>
+        <circle cx="481.26" cy="238.48" r="4" style="fill: #655dd2"/>
+        <rect x="481.58" y="244.21" width="17.87" height="0.99" transform="translate(792.97 701.89) rotate(-150)" style="fill: #655dd2"/>
+        <circle cx="499.53" cy="45.62" r="4" style="fill: #655dd2"/>
+        <circle cx="481.53" cy="68.62" r="4" style="fill: #655dd2"/>
+        <circle cx="484.53" cy="35.62" r="4" style="fill: #655dd2"/>
+        <rect x="484.86" y="41.35" width="17.87" height="0.99" transform="translate(900.51 324.99) rotate(-150)" style="fill: #655dd2"/>
+        <rect x="475.5" y="58.51" width="28.31" height="1.03" transform="translate(832.27 -295.76) rotate(127.13)" style="fill: #655dd2"/>
+      </g>
+    </g>
+  </g>
+</svg>
