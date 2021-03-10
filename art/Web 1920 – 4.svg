@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-Web_1920_4">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_4" data-name="Web 1920 – 4" clip-path="url(#clip-Web_1920_4)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="2256" height="1080" transform="matrix(0.946, 0.326, -0.326, 0.946, 308.617, -1028.464)" fill="#1c1d1e"/>
+    <text id="Hugo_Castro" data-name="Hugo Castro" transform="translate(286 35)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI" letter-spacing="-0.05em"><tspan x="0" y="0">Hugo Castro</tspan></text>
+    <text id="Works" transform="translate(847 35)" fill="#707070" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Works</tspan></text>
+    <text id="About" transform="translate(927 35)" fill="#707070" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">About</tspan></text>
+    <text id="Contact" transform="translate(1006 35)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Contact</tspan></text>
+    <g id="Group_3" data-name="Group 3" transform="translate(-230)">
+      <text id="Blog" transform="translate(1803 35)" fill="#fff" font-size="21" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Blog</tspan></text>
+      <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(1764 7)" fill="none" stroke="#fff" stroke-width="2">
+        <rect width="120" height="40" rx="20" stroke="none"/>
+        <rect x="1" y="1" width="118" height="38" rx="19" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_18" data-name="Group 18" transform="translate(284 75)">
+      <g id="Icon_feather-menu" data-name="Icon feather-menu" transform="translate(1580.785 954.5)">
+        <path id="Path_18" data-name="Path 18" d="M4.5,18h27" transform="translate(-4.5 -9)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <path id="Path_19" data-name="Path 19" d="M4.5,9h27" transform="translate(-4.5 -9)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <path id="Path_20" data-name="Path 20" d="M4.5,27h27" transform="translate(-4.5 -9)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+    </g>
+    <g id="Group_26" data-name="Group 26" transform="translate(27 -266)">
+      <g id="Rectangle_35" data-name="Rectangle 35" transform="translate(627 791)" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="654" height="177" rx="24" stroke="none"/>
+        <rect x="0.5" y="0.5" width="653" height="176" rx="23.5" fill="none"/>
+      </g>
+      <g id="Group_25" data-name="Group 25" transform="translate(1141 973)">
+        <path id="Path_22" data-name="Path 22" d="M25.455,0h89.091A25.23,25.23,0,0,1,140,25a25.23,25.23,0,0,1-25.455,25H25.455A25.23,25.23,0,0,1,0,25,25.23,25.23,0,0,1,25.455,0Z" fill="#357edc"/>
+        <text id="Send" transform="translate(43 36)" fill="#fff" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Send</tspan></text>
+      </g>
+      <g id="Rectangle_36" data-name="Rectangle 36" transform="translate(627 721)" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="195" height="40" rx="20" stroke="none"/>
+        <rect x="0.5" y="0.5" width="194" height="39" rx="19.5" fill="none"/>
+      </g>
+      <g id="Rectangle_37" data-name="Rectangle 37" transform="translate(830 721)" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="451" height="40" rx="20" stroke="none"/>
+        <rect x="0.5" y="0.5" width="450" height="39" rx="19.5" fill="none"/>
+      </g>
+      <text id="Name" transform="translate(631 713)" fill="#1c1d1e" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Name</tspan></text>
+      <text id="Email" transform="translate(830 716)" fill="#1c1d1e" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Email</tspan></text>
+      <text id="Message" transform="translate(637 783)" fill="#1c1d1e" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Message</tspan></text>
+    </g>
+    <text id="Message_me" data-name="Message me" transform="translate(654 417)" fill="#357edc" font-size="57" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Message me</tspan></text>
+    <g id="Group_20" data-name="Group 20" transform="translate(797 258)">
+      <path id="Path_22-2" data-name="Path 22" d="M25.455,0h89.091A25.23,25.23,0,0,1,140,25a25.23,25.23,0,0,1-25.455,25H25.455A25.23,25.23,0,0,1,0,25,25.23,25.23,0,0,1,25.455,0Z" fill="#357edc"/>
+      <text id="Github" transform="translate(33 35)" fill="#fff" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Github</tspan></text>
+    </g>
+    <g id="Group_24" data-name="Group 24" transform="translate(971 258)">
+      <path id="Path_22-3" data-name="Path 22" d="M25.455,0h89.091A25.23,25.23,0,0,1,140,25a25.23,25.23,0,0,1-25.455,25H25.455A25.23,25.23,0,0,1,0,25,25.23,25.23,0,0,1,25.455,0Z" fill="#357edc"/>
+      <text id="Linkedin" transform="translate(24 36)" fill="#fff" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Linkedin</tspan></text>
+    </g>
+    <text id="hugocastrohc_outlook.com" data-name="hugocastrohc@outlook.com" transform="translate(25 1052)" fill="#1c1d1e" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">hugocastrohc@outlook.com</tspan></text>
+    <text id="All_rights_reserverd" data-name="All rights reserverd" transform="translate(887 1052)" fill="#1c1d1e" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">All rights reserverd</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-Web_1920_5">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_5" data-name="Web 1920 – 5" clip-path="url(#clip-Web_1920_5)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="1920" height="1080" fill="#1c1d1e"/>
+    <text id="Hugo_Castro" data-name="Hugo Castro" transform="translate(771 100)" fill="#fff" font-size="75" font-family="SegoeUI, Segoe UI" letter-spacing="-0.05em"><tspan x="0" y="0">Hugo Castro</tspan></text>
+    <g id="Group_4" data-name="Group 4" transform="translate(-570 38)">
+      <g id="Group_2" data-name="Group 2" transform="translate(1351 56)">
+        <rect id="Rectangle_5" data-name="Rectangle 5" width="180" height="55" rx="27.5" transform="translate(89 559)" fill="#357edc"/>
+        <text id="Enter" transform="translate(157 596)" fill="#fff" font-size="22" font-family="SegoeUI, Segoe UI" letter-spacing="-0.09em"><tspan x="0" y="0">Enter</tspan></text>
+      </g>
+    </g>
+    <text id="CRUD" transform="translate(868 299)" fill="#357edc" font-size="75" font-family="SegoeUI, Segoe UI" letter-spacing="-0.05em"><tspan x="0" y="0">CRUD</tspan></text>
+    <g id="Rectangle_38" data-name="Rectangle 38" transform="translate(817 440)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="287" height="50" rx="25" stroke="none"/>
+      <rect x="0.5" y="0.5" width="286" height="49" rx="24.5" fill="none"/>
+    </g>
+    <g id="Rectangle_39" data-name="Rectangle 39" transform="translate(817 526)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="287" height="50" rx="25" stroke="none"/>
+      <rect x="0.5" y="0.5" width="286" height="49" rx="24.5" fill="none"/>
+    </g>
+    <text id="Password" transform="translate(818 517)" fill="#707070" font-size="21" font-family="SegoeUI, Segoe UI" letter-spacing="-0.05em"><tspan x="0" y="0">Password</tspan></text>
+    <text id="Username" transform="translate(818 431)" fill="#707070" font-size="21" font-family="SegoeUI, Segoe UI" letter-spacing="-0.05em"><tspan x="0" y="0">Username</tspan></text>
+    <g id="Ellipse_44" data-name="Ellipse 44" transform="translate(926 980)" fill="none" stroke="#fff" stroke-width="3">
+      <circle cx="34" cy="34" r="34" stroke="none"/>
+      <circle cx="34" cy="34" r="32.5" fill="none"/>
+    </g>
+    <path id="Icon_awesome-arrow-left" data-name="Icon awesome-arrow-left" d="M18.105,31.3l-1.561,1.561a1.681,1.681,0,0,1-2.384,0L.492,19.2a1.681,1.681,0,0,1,0-2.384L14.161,3.143a1.681,1.681,0,0,1,2.384,0L18.105,4.7a1.689,1.689,0,0,1-.028,2.412L9.6,15.188H29.813A1.683,1.683,0,0,1,31.5,16.875v2.25a1.683,1.683,0,0,1-1.687,1.688H9.6l8.473,8.072A1.677,1.677,0,0,1,18.105,31.3Z" transform="translate(944.354 996)" fill="#fff"/>
+  </g>
+</svg>

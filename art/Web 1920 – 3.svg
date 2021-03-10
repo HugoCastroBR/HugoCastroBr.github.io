@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-Web_1920_3">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_3" data-name="Web 1920 – 3" clip-path="url(#clip-Web_1920_3)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="1920" height="1080" fill="#1c1d1e"/>
+    <text id="Hugo_Castro" data-name="Hugo Castro" transform="translate(286 35)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI" letter-spacing="-0.05em"><tspan x="0" y="0">Hugo Castro</tspan></text>
+    <text id="Works" transform="translate(847 35)" fill="#707070" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Works</tspan></text>
+    <text id="About" transform="translate(927 35)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">About</tspan></text>
+    <text id="Contact" transform="translate(1006 35)" fill="#707070" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Contact</tspan></text>
+    <g id="Group_3" data-name="Group 3" transform="translate(-230)">
+      <text id="Blog" transform="translate(1803 35)" fill="#fff" font-size="21" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Blog</tspan></text>
+      <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(1764 7)" fill="none" stroke="#fff" stroke-width="2">
+        <rect width="120" height="40" rx="20" stroke="none"/>
+        <rect x="1" y="1" width="118" height="38" rx="19" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_18" data-name="Group 18" transform="translate(284 75)">
+      <g id="Icon_feather-menu" data-name="Icon feather-menu" transform="translate(1580.785 954.5)">
+        <path id="Path_18" data-name="Path 18" d="M4.5,18h27" transform="translate(-4.5 -9)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <path id="Path_19" data-name="Path 19" d="M4.5,9h27" transform="translate(-4.5 -9)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <path id="Path_20" data-name="Path 20" d="M4.5,27h27" transform="translate(-4.5 -9)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+    </g>
+    <g id="Group_20" data-name="Group 20" transform="translate(286 687)">
+      <path id="Path_22" data-name="Path 22" d="M25.455,0h89.091A25.23,25.23,0,0,1,140,25a25.23,25.23,0,0,1-25.455,25H25.455A25.23,25.23,0,0,1,0,25,25.23,25.23,0,0,1,25.455,0Z" fill="#357edc"/>
+      <text id="Github" transform="translate(33 35)" fill="#fff" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Github</tspan></text>
+    </g>
+    <text id="Hugo_Castro-2" data-name="Hugo Castro" transform="translate(289 441)" fill="#fff" font-size="90" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Hugo Castro</tspan></text>
+    <text id="A_web_developer_born_in_Minas_Gerais_Brazil_at_the_day_21_03_2003_working_as_a_web_developer_since_2020_web_development_student_and_in_love_with_javascript" data-name="A web developer born in Minas Gerais, Brazil at the day
+21/03/2003 working as a web developer since 2020, 
+web development student and in love with javascript" transform="translate(289 495)" fill="#fff" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">A web developer born in Minas Gerais, Brazil at the day</tspan><tspan x="0" y="40">21/03/2003 working as a web developer since 2020, </tspan><tspan x="0" y="80">web development student and in love with javascript</tspan></text>
+    <g id="Group_24" data-name="Group 24" transform="translate(460 687)">
+      <path id="Path_22-2" data-name="Path 22" d="M25.455,0h89.091A25.23,25.23,0,0,1,140,25a25.23,25.23,0,0,1-25.455,25H25.455A25.23,25.23,0,0,1,0,25,25.23,25.23,0,0,1,25.455,0Z" fill="#357edc"/>
+      <text id="Linkedin" transform="translate(24 36)" fill="#fff" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Linkedin</tspan></text>
+    </g>
+    <g id="Group_25" data-name="Group 25" transform="translate(634 687)">
+      <path id="Path_22-3" data-name="Path 22" d="M25.455,0h89.091A25.23,25.23,0,0,1,140,25a25.23,25.23,0,0,1-25.455,25H25.455A25.23,25.23,0,0,1,0,25,25.23,25.23,0,0,1,25.455,0Z" fill="#357edc"/>
+      <text id="Behance" transform="translate(24 36)" fill="#fff" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Behance</tspan></text>
+    </g>
+    <text id="Skills" transform="translate(1545 425)" fill="#fff" font-size="50" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Skills</tspan></text>
+    <text id="English" transform="translate(1547 474)" fill="#fff" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">English</tspan></text>
+    <text id="Portuguese" transform="translate(1525 518)" fill="#fff" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Portuguese</tspan></text>
+    <text id="Javascript" transform="translate(1534 562)" fill="#fff" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Javascript</tspan></text>
+    <text id="Python" transform="translate(1548 604)" fill="#fff" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Python</tspan></text>
+    <text id="NodeJs" transform="translate(1548 646)" fill="#fff" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">NodeJs</tspan></text>
+    <text id="Python-2" data-name="Python" transform="translate(1548 604)" fill="#fff" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Python</tspan></text>
+    <text id="Flask" transform="translate(1562 688)" fill="#fff" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Flask</tspan></text>
+  </g>
+</svg>

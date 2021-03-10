@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 449.21 331">
+  <defs>
+    <linearGradient id="ee7d7fa8-064f-4d49-b90f-6ab83a94bd65" x1="220.21" y1="331" x2="220.21" y2="118.85" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6873e2"/>
+      <stop offset="0.15" stop-color="#747ee2"/>
+      <stop offset="0.43" stop-color="#949be3"/>
+      <stop offset="0.8" stop-color="#c8cae5"/>
+      <stop offset="1" stop-color="#e6e6e6"/>
+    </linearGradient>
+    <linearGradient id="bf9ed849-faa4-49de-ad03-53f724e2147b" x1="219.73" y1="232.57" x2="219.73" y2="107" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6873e2"/>
+      <stop offset="0.43" stop-color="#6a75e2"/>
+      <stop offset="0.58" stop-color="#717be2"/>
+      <stop offset="0.69" stop-color="#7c86e3"/>
+      <stop offset="0.78" stop-color="#8d95e3"/>
+      <stop offset="0.86" stop-color="#a3a9e4"/>
+      <stop offset="0.93" stop-color="#bfc2e5"/>
+      <stop offset="0.99" stop-color="#dedfe6"/>
+      <stop offset="1" stop-color="#e6e6e6"/>
+    </linearGradient>
+    <linearGradient id="a3ddce39-7046-4f1f-8826-2c701edd6fb0" x1="220.54" y1="136.68" x2="220.54" y2="11.79" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6873e2"/>
+      <stop offset="0.27" stop-color="#8b93e3"/>
+      <stop offset="1" stop-color="#e6e6e6"/>
+    </linearGradient>
+  </defs>
+  <g id="a4b7f3bc-310f-4177-a095-e9e2e2e16a54" data-name="Layer 2">
+    <g id="b3b19d90-5b30-441d-8bcb-b98787bb4698" data-name="Layer 1">
+      <path d="M375.27,118.85l-154,126a2,2,0,0,1-2.5,0L64.93,119.05a14.86,14.86,0,0,0-4.72,10.87V316.08A14.92,14.92,0,0,0,75.12,331H365.29a14.92,14.92,0,0,0,14.92-14.92V129.92A14.89,14.89,0,0,0,375.27,118.85Z" style="fill: url(#ee7d7fa8-064f-4d49-b90f-6ab83a94bd65)"/>
+      <path d="M222.94,231.45,368.1,116.23a5.18,5.18,0,0,0-3.22-9.23H74.57a5.18,5.18,0,0,0-3.22,9.23L216.51,231.45A5.18,5.18,0,0,0,222.94,231.45Z" style="fill: url(#bf9ed849-faa4-49de-ad03-53f724e2147b)"/>
+      <g>
+        <ellipse cx="445.64" cy="125.87" rx="3.57" ry="4" style="fill: #655dd2"/>
+        <ellipse cx="429.58" cy="148.87" rx="3.57" ry="4" style="fill: #655dd2"/>
+        <ellipse cx="432.26" cy="115.87" rx="3.57" ry="4" style="fill: #655dd2"/>
+        <polygon points="433.4 118.06 447.21 127 447.65 126.14 433.84 117.2 433.4 118.06" style="fill: #655dd2"/>
+        <polygon points="430.47 148.87 445.72 126.3 444.98 125.67 429.74 148.25 430.47 148.87" style="fill: #655dd2"/>
+        <ellipse cx="270.63" cy="19.37" rx="3.57" ry="4" style="fill: #655dd2"/>
+        <ellipse cx="257.25" cy="9.37" rx="3.57" ry="4" style="fill: #655dd2"/>
+        <polygon points="258.39 11.56 272.2 20.5 272.65 19.64 258.84 10.7 258.39 11.56" style="fill: #655dd2"/>
+        <ellipse cx="6.49" cy="253.85" rx="3.57" ry="4" style="fill: #655dd2"/>
+        <ellipse cx="19.87" cy="243.85" rx="3.57" ry="4" style="fill: #655dd2"/>
+        <polygon points="18.73 246.04 4.92 254.98 4.48 254.12 18.29 245.18 18.73 246.04" style="fill: #655dd2"/>
+        <ellipse cx="3.57" cy="50.99" rx="3.57" ry="4" style="fill: #655dd2"/>
+        <ellipse cx="19.63" cy="73.99" rx="3.57" ry="4" style="fill: #655dd2"/>
+        <ellipse cx="16.95" cy="40.99" rx="3.57" ry="4" style="fill: #655dd2"/>
+        <polygon points="15.81 43.18 2 52.12 1.56 51.26 15.37 42.32 15.81 43.18" style="fill: #655dd2"/>
+        <polygon points="19.63 75.99 4.38 53.42 5.12 52.8 20.36 75.37 19.63 75.99" style="fill: #655dd2"/>
+      </g>
+    </g>
+    <g id="bef8149a-a70d-41d1-991f-0f6492ded1fc" data-name="Layer 2">
+      <path d="M321.19,81.47a38.73,38.73,0,0,0,.34-5c0-21.57-18.37-39.06-41-39.06a42.42,42.42,0,0,0-21.92,6A65.34,65.34,0,0,0,131.66,64.35c-19,4.88-32.78,19.58-32.78,37,0,21.36,20.83,38.68,46.52,38.68H302.33l.42,0,1,0c21.23,0,38.44-13.86,38.44-30.95C342.21,97,333.66,86.58,321.19,81.47Z" style="fill: url(#a3ddce39-7046-4f1f-8826-2c701edd6fb0)"/>
+    </g>
+  </g>
+</svg>

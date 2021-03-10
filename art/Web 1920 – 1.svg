@@ -1,0 +1,183 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.024" x2="0.5" y2="0.916" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6873e2"/>
+      <stop offset="0.27" stop-color="#8b93e3"/>
+      <stop offset="1" stop-color="#e6e6e6"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="0.976" x2="0.5" y2="0.084" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0.29"/>
+      <stop offset="0.33" stop-color="#0a0a0a"/>
+      <stop offset="0.42" stop-color="#1c1c1c"/>
+      <stop offset="0.54" stop-color="#292929"/>
+      <stop offset="0.69" stop-color="#313131"/>
+      <stop offset="1" stop-color="#333"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.5" y1="0.976" x2="0.5" y2="0.084" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6873e2"/>
+      <stop offset="0.15" stop-color="#747ee2"/>
+      <stop offset="0.43" stop-color="#949be3"/>
+      <stop offset="0.8" stop-color="#c8cae5"/>
+      <stop offset="1" stop-color="#e6e6e6"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="0.5" y1="1" x2="0.5" y2="-0.001" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6873e2"/>
+      <stop offset="0.43" stop-color="#6a75e2"/>
+      <stop offset="0.58" stop-color="#717be2"/>
+      <stop offset="0.69" stop-color="#7c86e3"/>
+      <stop offset="0.78" stop-color="#8d95e3"/>
+      <stop offset="0.86" stop-color="#a3a9e4"/>
+      <stop offset="0.93" stop-color="#bfc2e5"/>
+      <stop offset="0.99" stop-color="#dedfe6"/>
+      <stop offset="1" stop-color="#e6e6e6"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0.68" stop-color="#333"/>
+      <stop offset="0.83" stop-color="#353535"/>
+      <stop offset="0.89" stop-color="#3c3c3c"/>
+      <stop offset="0.92" stop-color="#474747"/>
+      <stop offset="0.96" stop-color="#585858"/>
+      <stop offset="0.98" stop-color="#6e6e6e"/>
+      <stop offset="1" stop-color="gray"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-8" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient"/>
+    <radialGradient id="radial-gradient" cx="1.368" cy="1.348" r="1.377" gradientTransform="matrix(0.493, 0.855, -0.855, 0.493, 1.845, -0.486)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e6e6e6"/>
+      <stop offset="0.08" stop-color="#c4c7e5"/>
+      <stop offset="0.27" stop-color="#6d78e2"/>
+      <stop offset="0.28" stop-color="#6873e2"/>
+      <stop offset="0.29" stop-color="#6873e2"/>
+      <stop offset="1" stop-color="#6873e2"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-9" x1="0.5" y1="0.976" x2="0.5" y2="0.084" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" clip-path="url(#clip-Web_1920_1)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="1920" height="1080" fill="#1c1d1e"/>
+    <text id="Hugo_Castro" data-name="Hugo Castro" transform="translate(286 35)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI" letter-spacing="-0.05em"><tspan x="0" y="0">Hugo Castro</tspan></text>
+    <text id="Works" transform="translate(847 35)" fill="#707070" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Works</tspan></text>
+    <text id="About" transform="translate(927 35)" fill="#707070" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">About</tspan></text>
+    <text id="Contact" transform="translate(1006 35)" fill="#707070" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Contact</tspan></text>
+    <g id="Group_3" data-name="Group 3" transform="translate(-230)">
+      <text id="Blog" transform="translate(1803 35)" fill="#fff" font-size="21" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Blog</tspan></text>
+      <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(1764 7)" fill="none" stroke="#fff" stroke-width="2">
+        <rect width="120" height="40" rx="20" stroke="none"/>
+        <rect x="1" y="1" width="118" height="38" rx="19" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_4" data-name="Group 4" transform="translate(-982 11)">
+      <text id="High_quality_web_pages" data-name="High quality
+web pages" transform="translate(1297 426)" fill="#fff" font-size="130" font-family="SegoeUI, Segoe UI" letter-spacing="-0.09em"><tspan x="0" y="0">High quality</tspan><tspan x="0" y="120">web pages</tspan></text>
+      <text id="Web_solutions_for_you" data-name="Web solutions for you" transform="translate(1307 305)" fill="#357edc" font-size="33" font-family="SegoeUI, Segoe UI" letter-spacing="-0.09em"><tspan x="0" y="0">Web solutions </tspan><tspan y="0" fill="#fff">for you</tspan></text>
+      <g id="Group_2" data-name="Group 2" transform="translate(1218 56)">
+        <rect id="Rectangle_5" data-name="Rectangle 5" width="180" height="55" rx="27.5" transform="translate(89 559)" fill="#357edc"/>
+        <text id="My_projects" data-name="My projects" transform="translate(132 594)" fill="#fff" font-size="22" font-family="SegoeUI, Segoe UI" letter-spacing="-0.09em"><tspan x="0" y="0">My projects</tspan></text>
+      </g>
+      <g id="Group_1" data-name="Group 1" transform="translate(1218 56)">
+        <g id="Rectangle_7" data-name="Rectangle 7" transform="translate(300 559)" fill="none" stroke="#fff" stroke-width="2">
+          <rect width="180" height="55" rx="27.5" stroke="none"/>
+          <rect x="1" y="1" width="178" height="53" rx="26.5" fill="none"/>
+        </g>
+        <text id="Contact-2" data-name="Contact" transform="translate(359 596)" fill="#fff" font-size="22" font-family="SegoeUI, Segoe UI" letter-spacing="-0.09em"><tspan x="0" y="0">Contact</tspan></text>
+      </g>
+    </g>
+    <g id="Group_16" data-name="Group 16" transform="translate(408 -360)">
+      <g id="Layer_2" data-name="Layer 2" transform="translate(748 848.002)">
+        <g id="Layer_2-2" data-name="Layer 2" transform="translate(0 -0.002)">
+          <path id="Path_5" data-name="Path 5" d="M207.165,54.227,129.542,1.172a6.619,6.619,0,0,0-10.386,5.339V38.967H0V83.976H119.156v28.632a6.618,6.618,0,0,0,10.386,5.334l77.622-53.049a6.434,6.434,0,0,0,0-10.667Z" transform="translate(0 0.002)" fill="url(#linear-gradient)"/>
+          <path id="Path_6" data-name="Path 6" d="M165.841,98.815a27.839,27.839,0,0,0,.213-3.369c0-14.692-11.5-26.606-25.685-26.606a24.927,24.927,0,0,0-13.721,4.121C121.034,55.7,105.875,43.33,88.078,43.33c-22.406,0-40.6,19.571-40.888,43.836C35.3,90.484,26.67,100.5,26.67,112.346c0,14.552,13.042,26.348,29.127,26.348h99.158c13.289,0,24.063-9.437,24.063-21.081C179,109.392,173.65,102.3,165.841,98.815Z" transform="translate(-11.697 -19.002)" fill="url(#linear-gradient-2)"/>
+        </g>
+      </g>
+      <g id="Group_10" data-name="Group 10" transform="translate(-283 402)">
+        <text id="We_always_work_considering_the_time_the_most_important_thing_which_you_have" data-name="We always work considering the
+time the most important thing
+ which you have" transform="translate(1262 507)" fill="#9b9b9b" font-size="18" font-family="SegoeUI, Segoe UI" letter-spacing="-0.09em"><tspan x="0" y="0">We always work considering the</tspan><tspan x="0" y="24">time the most important thing</tspan><tspan x="0" y="48" xml:space="preserve"> which you have</tspan></text>
+        <text id="Solutions_in_time" data-name="Solutions in time" transform="translate(1262 483)" fill="#fff" font-size="30" font-family="SegoeUI, Segoe UI" letter-spacing="-0.09em"><tspan x="0" y="0">Solutions in time</tspan></text>
+      </g>
+    </g>
+    <g id="Group_15" data-name="Group 15" transform="translate(960 -587)">
+      <g id="Group_7" data-name="Group 7" transform="translate(-852 402)">
+        <text id="We_work_with_the_most_modern_technologies_to_give_you_the_modern_solution" data-name="We work with the most modern 
+technologies to give you the 
+modern solution" transform="translate(1262 507)" fill="#9b9b9b" font-size="18" font-family="SegoeUI, Segoe UI" letter-spacing="-0.09em"><tspan x="0" y="0">We work with the most modern </tspan><tspan x="0" y="24">technologies to give you the </tspan><tspan x="0" y="48">modern solution</tspan></text>
+        <text id="Modern_site" data-name="Modern site" transform="translate(1262 483)" fill="#fff" font-size="30" font-family="SegoeUI, Segoe UI" letter-spacing="-0.08em"><tspan x="0" y="0">Modern site</tspan></text>
+      </g>
+      <g id="Layer_2-3" data-name="Layer 2" transform="translate(184 833)">
+        <g id="Layer_1" data-name="Layer 1">
+          <g id="Group_11" data-name="Group 11" transform="translate(24.428 23.817)">
+            <path id="Path_7" data-name="Path 7" d="M129,308.529H236.074v-4.914c-19.949-6.139-33.242-17.152-33.242-29.72V233.5H162.82v40.391c0,12.69-13.557,23.8-33.82,29.9Z" transform="translate(-100.908 -162.253)" fill="url(#linear-gradient-3)"/>
+            <rect id="Rectangle_26" data-name="Rectangle 26" width="162.85" height="20.356" rx="10.178" transform="translate(0 80.204)" fill="#333"/>
+            <rect id="Rectangle_27" data-name="Rectangle 27" width="162.85" height="91.603" rx="3.96" fill="#0a0313"/>
+            <rect id="Rectangle_28" data-name="Rectangle 28" width="154.708" height="87.023" rx="3.7" transform="translate(4.478 4.368)" fill="#555860"/>
+            <text id="Quality" transform="translate(74.17 95.857)" font-size="4" font-family="MyriadPro-Regular, Myriad Pro"><tspan x="0" y="0">Quality</tspan></text>
+          </g>
+          <path id="Path_8" data-name="Path 8" d="M235.917,144.457a13.077,13.077,0,0,0,.114-1.7,13.527,13.527,0,0,0-13.655-13.4,13.761,13.761,0,0,0-7.3,2.076,21.8,21.8,0,0,0-20.5-14.929c-11.912,0-21.578,9.861-21.741,22.083-6.315,1.673-10.907,6.718-10.907,12.686,0,7.328,6.921,13.272,15.471,13.272h52.719c7.068,0,12.792-4.755,12.792-10.618C242.911,149.791,240.07,146.212,235.917,144.457Z" transform="translate(-96.004 -69.07)" fill="url(#linear-gradient-4)"/>
+          <g id="Group_12" data-name="Group 12">
+            <circle id="Ellipse_21" data-name="Ellipse 21" cx="1.629" cy="1.629" r="1.629" transform="translate(0 47.43)" fill="#655dd2"/>
+            <circle id="Ellipse_22" data-name="Ellipse 22" cx="1.629" cy="1.629" r="1.629" transform="translate(7.328 56.794)" fill="#655dd2"/>
+            <circle id="Ellipse_23" data-name="Ellipse 23" cx="1.629" cy="1.629" r="1.629" transform="translate(6.107 43.359)" fill="#655dd2"/>
+            <rect id="Rectangle_29" data-name="Rectangle 29" width="7.275" height="0.403" transform="translate(0.712 49.168) rotate(-30)" fill="#655dd2"/>
+            <rect id="Rectangle_30" data-name="Rectangle 30" width="11.526" height="0.419" transform="matrix(0.604, 0.797, -0.797, 0.604, 1.932, 48.98)" fill="#655dd2"/>
+            <circle id="Ellipse_24" data-name="Ellipse 24" cx="1.629" cy="1.629" r="1.629" transform="translate(79.866 4.071)" fill="#655dd2"/>
+            <circle id="Ellipse_25" data-name="Ellipse 25" cx="1.629" cy="1.629" r="1.629" transform="translate(85.973)" fill="#655dd2"/>
+            <rect id="Rectangle_31" data-name="Rectangle 31" width="7.275" height="0.403" transform="translate(80.574 5.808) rotate(-30)" fill="#655dd2"/>
+            <circle id="Ellipse_26" data-name="Ellipse 26" cx="1.629" cy="1.629" r="1.629" transform="translate(200.412 99.534)" fill="#655dd2"/>
+            <circle id="Ellipse_27" data-name="Ellipse 27" cx="1.629" cy="1.629" r="1.629" transform="translate(194.305 95.463)" fill="#655dd2"/>
+            <rect id="Rectangle_32" data-name="Rectangle 32" width="7.275" height="0.403" transform="translate(202.754 101.621) rotate(-150)" fill="#655dd2"/>
+            <circle id="Ellipse_28" data-name="Ellipse 28" cx="1.629" cy="1.629" r="1.629" transform="translate(201.743 16.945)" fill="#655dd2"/>
+            <circle id="Ellipse_29" data-name="Ellipse 29" cx="1.629" cy="1.629" r="1.629" transform="translate(194.415 26.308)" fill="#655dd2"/>
+            <circle id="Ellipse_30" data-name="Ellipse 30" cx="1.629" cy="1.629" r="1.629" transform="translate(195.636 12.873)" fill="#655dd2"/>
+            <rect id="Rectangle_33" data-name="Rectangle 33" width="7.275" height="0.403" transform="translate(204.085 19.033) rotate(-150)" fill="#655dd2"/>
+            <rect id="Rectangle_34" data-name="Rectangle 34" width="11.526" height="0.419" transform="matrix(-0.604, 0.797, -0.797, -0.604, 202.991, 19.552)" fill="#655dd2"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_17" data-name="Group 17" transform="translate(-143 -136)">
+      <g id="Group_14" data-name="Group 14" transform="translate(256 397)">
+        <text id="Our_team_is_easy_to_communicate_it_allows_you_to_make_fast_changes_in_your_project_" data-name="Our team is easy to communicate
+it allows you to make fast changes
+in your project " transform="translate(1262 507)" fill="#9b9b9b" font-size="18" font-family="SegoeUI, Segoe UI" letter-spacing="-0.09em"><tspan x="0" y="0">Our team is easy to communicate</tspan><tspan x="0" y="24">it allows you to make fast changes</tspan><tspan x="0" y="48">in your project </tspan></text>
+        <text id="Communication" transform="translate(1262 483)" fill="#fff" font-size="30" font-family="SegoeUI, Segoe UI" letter-spacing="-0.09em"><tspan x="0" y="0">Communication</tspan></text>
+      </g>
+      <g id="Layer_2-4" data-name="Layer 2" transform="translate(1295 839.014)">
+        <g id="Layer_3" data-name="Layer 3" transform="translate(0 -0.014)">
+          <g id="Group_50" data-name="Group 50" transform="translate(41.772 3.002)">
+            <path id="Path_23" data-name="Path 23" d="M181.225,12,126.743,56.586a.694.694,0,0,1-.88,0L71.44,12.048a5.269,5.269,0,0,0-1.67,3.844V81.749a5.275,5.275,0,0,0,5.281,5.275H177.675a5.275,5.275,0,0,0,5.275-5.275V15.892A5.245,5.245,0,0,0,181.225,12Z" transform="translate(-69.77 -7.809)" fill="url(#linear-gradient-5)"/>
+            <path id="Path_24" data-name="Path 24" d="M131.9,48.376,179.607,10.5A3.1,3.1,0,0,0,177.679,5H82.252a3.1,3.1,0,0,0-1.922,5.526L128.04,48.4a3.113,3.113,0,0,0,3.856-.024Z" transform="translate(-73.534 -5)" fill="url(#linear-gradient-6)"/>
+          </g>
+          <path id="Path_25" data-name="Path 25" d="M98.471,88.354l90.4-86.812c.856-.91,1.8-1.664,2.994-1.2l54.775,19.943c2.1.814,3.455,4.089,2.1,5.8L167.322,126.671a4.317,4.317,0,0,1-5.388.6L100.866,94.94C98.471,93.742,97.052,89.887,98.471,88.354Z" transform="translate(-39.289 -0.073)" fill="url(#linear-gradient-7)"/>
+          <path id="Path_26" data-name="Path 26" d="M99.957,87.405,190.248.593a2.155,2.155,0,0,1,2.263-.467l53.452,19.626a2.994,2.994,0,0,1,1.293,4.694l-81.178,99.146a2.568,2.568,0,0,1-2.994.6L100.418,90.878a2.161,2.161,0,0,1-.461-3.472Z" transform="translate(-39.841 0.014)" fill="url(#linear-gradient-8)"/>
+          <rect id="Rectangle_43" data-name="Rectangle 43" width="2.197" height="7.424" rx="1.099" transform="matrix(0.467, -0.884, 0.884, 0.467, 87.335, 107.97)" fill="#fff"/>
+          <ellipse id="Ellipse_45" data-name="Ellipse 45" cx="1.365" cy="1.347" rx="1.365" ry="1.347" transform="translate(173.688 12.538) rotate(-60)" fill="url(#radial-gradient)"/>
+          <path id="Path_27" data-name="Path 27" d="M108.8,135.553a19.236,19.236,0,0,0,.168-2.5A19.892,19.892,0,0,0,88.89,113.341a20.2,20.2,0,0,0-10.723,3.053A32.066,32.066,0,0,0,48.01,94.44c-17.518,0-31.731,14.5-31.965,32.474C6.753,129.374,0,136.792,0,145.569c0,10.777,10.178,19.518,22.751,19.518h77.526c10.394,0,18.817-6.993,18.817-15.614C119.094,143.4,114.909,138.133,108.8,135.553Z" transform="translate(0 -37.89)" fill="url(#linear-gradient-9)"/>
+        </g>
+      </g>
+    </g>
+    <line id="Line_1" data-name="Line 1" y2="723" transform="translate(1006.5 214.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <g id="Ellipse_41" data-name="Ellipse 41" transform="translate(993 318)" fill="#1c1d1e" stroke="#707070" stroke-width="1">
+      <circle cx="13.5" cy="13.5" r="13.5" stroke="none"/>
+      <circle cx="13.5" cy="13.5" r="13" fill="none"/>
+    </g>
+    <g id="Ellipse_42" data-name="Ellipse 42" transform="translate(993 534)" fill="#1c1d1e" stroke="#707070" stroke-width="1">
+      <circle cx="13.5" cy="13.5" r="13.5" stroke="none"/>
+      <circle cx="13.5" cy="13.5" r="13" fill="none"/>
+    </g>
+    <g id="Ellipse_43" data-name="Ellipse 43" transform="translate(993 750)" fill="#1c1d1e" stroke="#707070" stroke-width="1">
+      <circle cx="13.5" cy="13.5" r="13.5" stroke="none"/>
+      <circle cx="13.5" cy="13.5" r="13" fill="none"/>
+    </g>
+    <g id="Group_18" data-name="Group 18" transform="translate(284 75)">
+      <g id="Icon_feather-menu" data-name="Icon feather-menu" transform="translate(1580.785 954.5)">
+        <path id="Path_18" data-name="Path 18" d="M4.5,18h27" transform="translate(-4.5 -9)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <path id="Path_19" data-name="Path 19" d="M4.5,9h27" transform="translate(-4.5 -9)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <path id="Path_20" data-name="Path 20" d="M4.5,27h27" transform="translate(-4.5 -9)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+    </g>
+  </g>
+</svg>

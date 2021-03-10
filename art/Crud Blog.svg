@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-Crud_Blog">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Crud_Blog" data-name="Crud Blog" clip-path="url(#clip-Crud_Blog)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="1920" height="1080" fill="#1c1d1e"/>
+    <g id="Group_27" data-name="Group 27" transform="translate(-872 -946)">
+      <g id="Ellipse_44" data-name="Ellipse 44" transform="translate(926 980)" fill="none" stroke="#fff" stroke-width="3">
+        <circle cx="34" cy="34" r="34" stroke="none"/>
+        <circle cx="34" cy="34" r="32.5" fill="none"/>
+      </g>
+      <path id="Icon_awesome-arrow-left" data-name="Icon awesome-arrow-left" d="M18.105,31.3l-1.561,1.561a1.681,1.681,0,0,1-2.384,0L.492,19.2a1.681,1.681,0,0,1,0-2.384L14.161,3.143a1.681,1.681,0,0,1,2.384,0L18.105,4.7a1.689,1.689,0,0,1-.028,2.412L9.6,15.188H29.813A1.683,1.683,0,0,1,31.5,16.875v2.25a1.683,1.683,0,0,1-1.687,1.688H9.6l8.473,8.072A1.677,1.677,0,0,1,18.105,31.3Z" transform="translate(944.354 996)" fill="#fff"/>
+    </g>
+    <text id="CRUD" transform="translate(144 96)" fill="#fff" font-size="75" font-family="SegoeUI, Segoe UI" letter-spacing="-0.05em"><tspan x="0" y="0">CRUD</tspan></text>
+    <g id="Group_49" data-name="Group 49" transform="translate(13 -73)">
+      <g id="Group_2" data-name="Group 2" transform="translate(-1 -241)">
+        <rect id="Rectangle_5" data-name="Rectangle 5" width="180" height="55" rx="27.5" transform="translate(89 559)" fill="#357edc"/>
+        <text id="Posts" transform="translate(157 596)" fill="#fff" font-size="22" font-family="SegoeUI, Segoe UI" letter-spacing="-0.09em"><tspan x="0" y="0">Posts</tspan></text>
+      </g>
+      <g id="Group_29" data-name="Group 29" transform="translate(-1 -315)">
+        <rect id="Rectangle_5-2" data-name="Rectangle 5" width="180" height="55" rx="27.5" transform="translate(89 559)" fill="#357edc"/>
+        <text id="Home" transform="translate(153 596)" fill="#fff" font-size="22" font-family="SegoeUI, Segoe UI" letter-spacing="-0.09em"><tspan x="0" y="0">Home</tspan></text>
+      </g>
+      <g id="Group_30" data-name="Group 30" transform="translate(-8 -70)">
+        <rect id="Rectangle_5-3" data-name="Rectangle 5" width="180" height="55" rx="27.5" transform="translate(96 462)" fill="#357edc"/>
+        <text id="Contact" transform="translate(155 499)" fill="#fff" font-size="22" font-family="SegoeUI, Segoe UI" letter-spacing="-0.09em"><tspan x="0" y="0">Contact</tspan></text>
+      </g>
+      <g id="Group_59" data-name="Group 59" transform="translate(-1 -93)">
+        <rect id="Rectangle_5-4" data-name="Rectangle 5" width="180" height="55" rx="27.5" transform="translate(89 559)" fill="#357edc"/>
+        <text id="Blog" transform="translate(157 596)" fill="#fff" font-size="22" font-family="SegoeUI, Segoe UI" letter-spacing="-0.09em"><tspan x="0" y="0">Blog</tspan></text>
+      </g>
+    </g>
+    <g id="Group_33" data-name="Group 33" transform="translate(-3 366)">
+      <rect id="Rectangle_5-5" data-name="Rectangle 5" width="180" height="55" rx="27.5" transform="translate(96 462)" fill="#357edc"/>
+      <text id="Exit" transform="translate(172 499)" fill="#fff" font-size="22" font-family="SegoeUI, Segoe UI" letter-spacing="-0.09em"><tspan x="0" y="0">Exit</tspan></text>
+    </g>
+    <text id="Hugo_Castro" data-name="Hugo Castro" transform="translate(101 927)" fill="#fff" font-size="33" font-family="SegoeUI, Segoe UI" letter-spacing="-0.05em"><tspan x="0" y="0">Hugo Castro</tspan></text>
+    <g id="Group_60" data-name="Group 60" transform="translate(-197 -8)">
+      <path id="Path_28" data-name="Path 28" d="M20,0H380a20,20,0,0,1,20,20V380a20,20,0,0,1-20,20H20A20,20,0,0,1,0,380V20A20,20,0,0,1,20,0Z" transform="translate(584 171)" fill="#707070"/>
+      <g id="Group_19" data-name="Group 19" transform="translate(743 536.395)">
+        <g id="Group_20" data-name="Group 20">
+          <path id="Path_22" data-name="Path 22" d="M16.364,0H73.636C82.674,0,90,6.716,90,15S82.674,30,73.636,30H16.364C7.326,30,0,23.284,0,15S7.326,0,16.364,0Z" fill="#357edc"/>
+          <text id="Modify" transform="translate(15.751 23.605)" fill="#fff" font-size="19" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Modify</tspan></text>
+        </g>
+      </g>
+      <text id="A_plataform_to_registrate_ufo_relates_with_a_public_API" data-name="A plataform to registrate ufo relates with a public API" transform="translate(644 429)" fill="#fff" font-size="15" font-family="SegoeUI, Segoe UI" letter-spacing="-0.08em"><tspan x="0" y="0">A plataform to registrate ufo relates with a public API</tspan></text>
+      <path id="Rectangle_46" data-name="Rectangle 46" d="M20,0H380a20,20,0,0,1,20,20V225a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V20A20,20,0,0,1,20,0Z" transform="translate(584 171)" fill="#334d67"/>
+      <text id="Ufo_Night" data-name="Ufo Night" transform="translate(738 386)" fill="#fff" font-size="25" font-family="SegoeUI, Segoe UI" letter-spacing="-0.08em"><tspan x="0" y="0">Ufo Night</tspan></text>
+    </g>
+    <g id="Group_61" data-name="Group 61" transform="translate(250 -8)">
+      <path id="Path_28-2" data-name="Path 28" d="M20,0H380a20,20,0,0,1,20,20V380a20,20,0,0,1-20,20H20A20,20,0,0,1,0,380V20A20,20,0,0,1,20,0Z" transform="translate(584 171)" fill="#707070"/>
+      <g id="Group_19-2" data-name="Group 19" transform="translate(743 536.395)">
+        <g id="Group_20-2" data-name="Group 20">
+          <path id="Path_22-2" data-name="Path 22" d="M16.364,0H73.636C82.674,0,90,6.716,90,15S82.674,30,73.636,30H16.364C7.326,30,0,23.284,0,15S7.326,0,16.364,0Z" fill="#357edc"/>
+          <text id="Modify-2" data-name="Modify" transform="translate(15.751 23.605)" fill="#fff" font-size="19" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Modify</tspan></text>
+        </g>
+      </g>
+      <text id="A_plataform_to_registrate_ufo_relates_with_a_public_API-2" data-name="A plataform to registrate ufo relates with a public API" transform="translate(644 429)" fill="#fff" font-size="15" font-family="SegoeUI, Segoe UI" letter-spacing="-0.08em"><tspan x="0" y="0">A plataform to registrate ufo relates with a public API</tspan></text>
+      <path id="Rectangle_46-2" data-name="Rectangle 46" d="M20,0H380a20,20,0,0,1,20,20V225a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V20A20,20,0,0,1,20,0Z" transform="translate(584 171)" fill="#334d67"/>
+      <text id="Ufo_Night-2" data-name="Ufo Night" transform="translate(738 386)" fill="#fff" font-size="25" font-family="SegoeUI, Segoe UI" letter-spacing="-0.08em"><tspan x="0" y="0">Ufo Night</tspan></text>
+    </g>
+  </g>
+</svg>
