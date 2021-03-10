@@ -108,7 +108,7 @@ h1,h2,h3,h4,h5,h6,span,a,button,p{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-top: -40px;
+    margin-top: -30px;
 
 }
 
@@ -255,7 +255,7 @@ h1,h2,h3,h4,h5,h6,span,a,button,p{
     align-items: flex-end;
     width: 120px;
     height: 150px;
-    border-radius: 20px
+    border-radius: 20px;
     margin-top: calc(100vh - 250px);
     margin-left: calc(100vw - 150px );
     overflow: hidden;
@@ -282,6 +282,17 @@ h1,h2,h3,h4,h5,h6,span,a,button,p{
     background-color: transparent;
 }
 
+.noDisplay{
+    display: none;
+}
+
 .home_main__menu_btn{
     height: 50px;
+    border: none;
+    background-color: transparent;
+}
+
+.home_main__menu_btn img{
+    height: 20px;
+    filter: invert(100);
 }
